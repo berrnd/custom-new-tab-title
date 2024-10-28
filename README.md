@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Custom New Tab Title</h1>
 <h2>Apply a custom (window) title to the New Tab page in Firefox.</h2>
-<em><h4>This is a hobby project by <a href="https://github.com/berrnd">@berrnd</a></h4></em>
+<em><h4>This is a hobby project by <a href="https://berrnd.de">Bernd Bestel</a></h4></em>
 </div>
 
 -----
@@ -33,6 +33,12 @@ Or download the [latest release](https://github.com/berrnd/custom-new-tab-title/
 ## Contributing / Say Thanks
 
 Any help is welcome, feel free to contribute anything which comes to your mind or see [https://berrnd.de/say-thanks](https://berrnd.de/say-thanks?project=CustomNewTabTitle) if you just want to say thanks.
+
+## Screenshots
+
+![overview](https://github.com/berrnd/custom-new-tab-title/raw/main/.github/publication_assets/overview.png "overview")
+
+![settings](https://github.com/berrnd/custom-new-tab-title/raw/main/.github/publication_assets/settings.png "settings")
 
 ## Roadmap
 
